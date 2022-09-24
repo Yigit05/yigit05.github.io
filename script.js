@@ -1,6 +1,6 @@
 const textElement = document.getElementById("text");
 const speedElement = document.getElementById("speed");
-const text = "DENEME YAZISI DENEME YAZISI";
+const text = "İLKAYIN MEMESİ SARKIYO SALLA İLKAY MEMELERİ";
 let index = 1;
 let speed = 300 / speedElement.ariaValueMax;
 
