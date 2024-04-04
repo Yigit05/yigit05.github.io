@@ -1,0 +1,8 @@
+
+
+li:hover{background-color: aqua;
+        transition: 0.3s;
+    }
+#meme:hover{color: black;
+        transition: 0.3s;}
+
